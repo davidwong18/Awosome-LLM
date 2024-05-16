@@ -1,1 +1,62 @@
 # Awosome-LLM
+## Leaderboards
+[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+[LLM Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
+[LLMPerf Leaderboard](https://github.com/ray-project/llmperf-leaderboard)
+[LLM API Hosts Leaderboard](https://artificialanalysis.ai/leaderboards/hosts)
+[LLM Safety Leaderboard (for compressed models)](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard)
+[MTEB (Massive Text Embedding Benchmark) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+[BigBench](https://github.com/google/BIG-bench)
+
+## Deploy Tools/Frameworks
+[LocalAI](https://github.com/mudler/LocalAI)
+[Ollama](https://github.com/ollama/ollama)
+[vLLM](https://github.com/vllm-project/vllm)
+[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+[llama.cpp](https://github.com/ggerganov/llama.cpp)
+[LM Studio](https://github.com/lmstudio-ai)
+[Outlines](https://github.com/outlines-dev/outlines)
+[gpt4all](https://github.com/nomic-ai/gpt4all)
+[gpt4free](https://github.com/xtekky/gpt4free)
+[privateGPT](https://github.com/imartinez/privateGPT)
+[mlc-llm](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices
+[llamafile](https://github.com/Mozilla-Ocho/llamafile) Distribute and run LLMs with a single file
+[koboldcpp](https://github.com/LostRuins/koboldcpp)
+[exllamav2](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs
+[xinference](https://github.com/xorbitsai/inference)
+[lmdeploy](https://github.com/InternLM/lmdeploy) is a toolkit for compressing, deploying, and serving LLMs
+[FlexGen(Python)](https://github.com/FMInference/FlexGen) Running large language models on a single GPU for throughput-oriented scenarios
+[OpenLLM](https://github.com/bentoml/OpenLLM) Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud
+[Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+[CTranslate2](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++
+[DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) MII makes low-latency and high-throughput inference possible, powered by DeepSpeed
+[AirLLM](https://github.com/lyogavin/Anima/tree/main/air_llm)
+
+## RAG Frameworks
+[LangChain](https://github.com/langchain-ai/langchain)
+[LlamaIndex](https://github.com/run-llama/llama_index)
+
+## Reduce Input/Output Tokens
+- Chunking of input documents
+- Compression of input tokens: [LLMLingua](https://github.com/microsoft/LLMLingua)
+- Summarization of input tokens
+- Avoid adding few-shot examples
+- Limit the length of the output and its formatting
+
+## Model Routing
+[LLamaIndex Routers and LLMSingleSelector](https://docs.llamaindex.ai/en/latest/module_guides/querying/router/#using-selector-as-a-standalone-module)
+[NVIDIA Nemo guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+[Dynamically route logic based on input with LangChain](https://python.langchain.com/docs/expression_language/how_to/routing)
+
+## Caching
+[GPTCache](https://github.com/zilliztech/GPTCache)
+
+## Other Tools
+[LLM AutoEval](https://github.com/mlabonne/llm-autoeval): Automatically evaluate your LLMs using RunPod
+[LazyMergekit](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing)	Easily merge models using [MergeKit](https://github.com/arcee-ai/mergekit) in one click
+[AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing)	Quantize LLMs in GGUF, GPTQ, EXL2, AWQ, and HQQ formats in one click
+[Model Family Tree](https://colab.research.google.com/drive/1s2eQlolcI1VGgDhqWIANfkfKvcKrMyNr?usp=sharing)	Visualize the family tree of merged models
+[ZeroSpace](https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC)	Automatically create a Gradio chat interface using a free ZeroGPU
+[ExLlamaV2](https://github.com/turboderp/exllamav2) [Colab](https://colab.research.google.com/drive/1yrq4XBlxiA0fALtMoT2dwiACVc77PHou?usp=sharing) Quantize and run EXL2 models and upload them to the HF Hub
+[LMQL](https://lmql.ai/docs/language/overview.html) is a Python-based programming language for LLM programming with declarative elements.
+
