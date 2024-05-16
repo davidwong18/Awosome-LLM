@@ -1,7 +1,7 @@
 # Awosome-LLM
 ## Leaderboards
-[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-[LLM Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
+[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) 
+[LLM Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) 
 [LLMPerf Leaderboard](https://github.com/ray-project/llmperf-leaderboard)
 [LLM API Hosts Leaderboard](https://artificialanalysis.ai/leaderboards/hosts)
 [LLM Safety Leaderboard (for compressed models)](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard)
