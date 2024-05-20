@@ -39,7 +39,7 @@
 
 ## Reduce Input/Output Tokens
 - Chunking of input documents
-- Compression of input tokens: [LLMLingua](https://github.com/microsoft/LLMLingua)
+- Compression of input tokens: [LLMLingua Series](https://llmlingua.com/)
 - Summarization of input tokens
 - Avoid adding few-shot examples
 - Limit the length of the output and its formatting
