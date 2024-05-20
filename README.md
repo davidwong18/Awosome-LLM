@@ -19,18 +19,19 @@
 - [gpt4all](https://github.com/nomic-ai/gpt4all)
 - [gpt4free](https://github.com/xtekky/gpt4free)
 - [privateGPT](https://github.com/imartinez/privateGPT)
-- [mlc-llm](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices
+- [MLC-LLM(C++)](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile) Distribute and run LLMs with a single file
 - [koboldcpp](https://github.com/LostRuins/koboldcpp)
-- [exllamav2](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs
+- [exllamav2(C++)](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [xinference](https://github.com/xorbitsai/inference)
 - [lmdeploy](https://github.com/InternLM/lmdeploy) is a toolkit for compressing, deploying, and serving LLMs
 - [FlexGen(Python)](https://github.com/FMInference/FlexGen) Running large language models on a single GPU for throughput-oriented scenarios
 - [OpenLLM](https://github.com/bentoml/OpenLLM) Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
-- [CTranslate2](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++
+- [CTranslate2(C++)](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) MII makes low-latency and high-throughput inference possible, powered by DeepSpeed
 - [AirLLM](https://github.com/lyogavin/Anima/tree/main/air_llm)
+- [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving
 
 ## RAG Frameworks
 - [LangChain](https://github.com/langchain-ai/langchain)
