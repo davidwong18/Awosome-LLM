@@ -61,6 +61,7 @@
 
 ## Caching
 - [GPTCache](https://github.com/zilliztech/GPTCache)
+- [KV-Runahead](https://arxiv.org/pdf/2405.05329) Scalable Causal LLM Inference by Parallel Key-Value Cache Generation.
   
 ## Heterogeneous Parallel Inference
 - [LLM-PQ](https://github.com/tonyzhao-jt/LLM-PQ) Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization.  ![GitHub Repo stars](https://img.shields.io/github/stars/tonyzhao-jt/LLM-PQ) ![GitHub last commit](https://img.shields.io/github/last-commit/tonyzhao-jt/LLM-PQ)
