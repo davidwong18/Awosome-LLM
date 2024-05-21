@@ -38,6 +38,7 @@
 - [AirLLM](https://github.com/lyogavin/Anima/tree/main/air_llm)
 - [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving. ![GitHub Repo stars](https://img.shields.io/github/stars/flexflow/FlexFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/flexflow/FlexFlow)
 - [InferFlow(C++)](https://github.com/inferflow/inferflow) is an efficient and highly configurable inference engine for large language models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/inferflow/inferflow) ![GitHub last commit](https://img.shields.io/github/last-commit/inferflow/inferflow)
+- [ExeGPT](https://arxiv.org/pdf/2404.07947) Constraint-Aware Resource Scheduling for LLM Inference.
 
 
 ## RAG Frameworks
