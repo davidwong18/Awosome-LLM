@@ -10,28 +10,31 @@
 
 ## Deploy Tools/Frameworks
 - [LocalAI](https://github.com/mudler/LocalAI)
-- [Ollama](https://github.com/ollama/ollama)
-- [vLLM](https://github.com/vllm-project/vllm)
-- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [Ollama](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama)
+- [vLLM](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp)
 - [LM Studio](https://github.com/lmstudio-ai)
 - [Outlines](https://github.com/outlines-dev/outlines)
 - [gpt4all](https://github.com/nomic-ai/gpt4all)
 - [gpt4free](https://github.com/xtekky/gpt4free)
 - [privateGPT](https://github.com/imartinez/privateGPT)
-- [MLC-LLM(C++)](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices
+- [MLC-LLM(C++)](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. ![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm)
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile) Distribute and run LLMs with a single file
 - [koboldcpp](https://github.com/LostRuins/koboldcpp)
-- [exllamav2(C++)](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs
+- [exllamav2(C++)](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs. ![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllamav2)
 - [xinference](https://github.com/xorbitsai/inference)
 - [lmdeploy](https://github.com/InternLM/lmdeploy) is a toolkit for compressing, deploying, and serving LLMs
 - [FlexGen(Python)](https://github.com/FMInference/FlexGen) Running large language models on a single GPU for throughput-oriented scenarios
 - [OpenLLM](https://github.com/bentoml/OpenLLM) Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
-- [CTranslate2(C++)](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++
+- [CTranslate2(C++)](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2)
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) MII makes low-latency and high-throughput inference possible, powered by DeepSpeed
 - [AirLLM](https://github.com/lyogavin/Anima/tree/main/air_llm)
-- [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving
+- [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving. ![GitHub Repo stars](https://img.shields.io/github/stars/flexflow/FlexFlow)
+
+- [InferFlow(C++)](https://github.com/inferflow/inferflow) is an efficient and highly configurable inference engine for large language models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/inferflow/inferflow)
+
 
 ## RAG Frameworks
 - [LangChain](https://github.com/langchain-ai/langchain)
