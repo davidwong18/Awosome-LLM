@@ -61,6 +61,9 @@
 
 ## Caching
 - [GPTCache](https://github.com/zilliztech/GPTCache)
+  
+## Serving LLM on Heterogeneous Clusters
+- [LLM-PQ](https://github.com/tonyzhao-jt/LLM-PQ) Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization.  ![GitHub Repo stars](https://img.shields.io/github/stars/tonyzhao-jt/LLM-PQ) ![GitHub last commit](https://img.shields.io/github/last-commit/tonyzhao-jt/LLM-PQ)
 
 ## Other Tools
 - [LLM AutoEval](https://github.com/mlabonne/llm-autoeval): Automatically evaluate your LLMs using RunPod
