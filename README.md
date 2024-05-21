@@ -62,7 +62,7 @@
 ## Caching
 - [GPTCache](https://github.com/zilliztech/GPTCache)
   
-## Serving LLM on Heterogeneous Clusters
+## Heterogeneous Parallel Inference
 - [LLM-PQ](https://github.com/tonyzhao-jt/LLM-PQ) Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization.  ![GitHub Repo stars](https://img.shields.io/github/stars/tonyzhao-jt/LLM-PQ) ![GitHub last commit](https://img.shields.io/github/last-commit/tonyzhao-jt/LLM-PQ)
 - [HexGen](https://github.com/zhenyutiancandy/HexGen) Serving LLMs on heterogeneous decentralized clusters.
 - [MOIRAI](https://github.com/moirai-placement/moirai) Towards Optimal Placement for Distributed Inference on Heterogeneous Devices.
