@@ -75,3 +75,6 @@
 - [ZeroSpace](https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC)    Automatically create a Gradio chat interface using a free ZeroGPU
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) [Colab](https://colab.research.google.com/drive/1yrq4XBlxiA0fALtMoT2dwiACVc77PHou?usp=sharing) Quantize and run EXL2 models and upload them to the HF Hub
 - [LMQL](https://lmql.ai/docs/language/overview.html) is a Python-based programming language for LLM programming with declarative elements.
+
+## Papers
+- [Sarathi-Serve](https://arxiv.org/pdf/2403.02310) Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve.
