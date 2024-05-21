@@ -51,6 +51,9 @@
 - [NVIDIA Nemo guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
 - [Dynamically route logic based on input with LangChain](https://python.langchain.com/docs/expression_language/how_to/routing)
 
+## Quantization
+- [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/pdf/2405.04532) [Code](https://github.com/mit-han-lab/qserve) ![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/qserve) ![GitHub last commit](https://img.shields.io/github/last-commit/mit-han-lab/qserve)
+
 ## Caching
 - [GPTCache](https://github.com/zilliztech/GPTCache)
 
