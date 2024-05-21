@@ -9,31 +9,30 @@
 - [BigBench](https://github.com/google/BIG-bench)
 
 ## Deploy Tools/Frameworks
-- [LocalAI](https://github.com/mudler/LocalAI)
-- [Ollama](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama)
-- [vLLM](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm)
-- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM)
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp)
-- [LM Studio](https://github.com/lmstudio-ai)
+- [LocalAI](https://github.com/mudler/LocalAI) ![GitHub Repo stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)
+- [Ollama](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)
+- [vLLM](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm) ![GitHub last commit](https://img.shields.io/github/last-commit/vllm-project/vllm)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/TensorRT-LLM)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ggerganov/llama.cpp)
+- [LM Studio](https://github.com/lmstudio-ai) 
 - [Outlines](https://github.com/outlines-dev/outlines)
 - [gpt4all](https://github.com/nomic-ai/gpt4all)
 - [gpt4free](https://github.com/xtekky/gpt4free)
 - [privateGPT](https://github.com/imartinez/privateGPT)
-- [MLC-LLM(C++)](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. ![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm)
+- [MLC-LLM(C++)](https://github.com/mlc-ai/mlc-llm) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. ![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/mlc-ai/mlc-llm)
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile) Distribute and run LLMs with a single file
 - [koboldcpp](https://github.com/LostRuins/koboldcpp)
-- [exllamav2(C++)](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs. ![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllamav2)
-- [xinference](https://github.com/xorbitsai/inference)
+- [exllamav2(C++)](https://github.com/turboderp/exllamav2) A fast inference library for running LLMs locally on modern consumer-class GPUs. ![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllamav2) ![GitHub last commit](https://img.shields.io/github/last-commit/turboderp/exllamav2)
+- [xinference](https://github.com/xorbitsai/inference) ![GitHub Repo stars](https://img.shields.io/github/stars/xorbitsai/inference) ![GitHub last commit](https://img.shields.io/github/last-commit/xorbitsai/inference)
 - [lmdeploy](https://github.com/InternLM/lmdeploy) is a toolkit for compressing, deploying, and serving LLMs
 - [FlexGen(Python)](https://github.com/FMInference/FlexGen) Running large language models on a single GPU for throughput-oriented scenarios
 - [OpenLLM](https://github.com/bentoml/OpenLLM) Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
-- [CTranslate2(C++)](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2)
+- [CTranslate2(C++)](https://github.com/OpenNMT/CTranslate2) fast inference engine for Transformer models in C++. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenNMT/CTranslate2)
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) MII makes low-latency and high-throughput inference possible, powered by DeepSpeed
 - [AirLLM](https://github.com/lyogavin/Anima/tree/main/air_llm)
-- [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving. ![GitHub Repo stars](https://img.shields.io/github/stars/flexflow/FlexFlow)
-
-- [InferFlow(C++)](https://github.com/inferflow/inferflow) is an efficient and highly configurable inference engine for large language models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/inferflow/inferflow)
+- [FlexFlow(C++,Python)](https://github.com/flexflow/FlexFlow) Serve is an open-source compiler and distributed system for low latency, high performance LLM serving. ![GitHub Repo stars](https://img.shields.io/github/stars/flexflow/FlexFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/flexflow/FlexFlow)
+- [InferFlow(C++)](https://github.com/inferflow/inferflow) is an efficient and highly configurable inference engine for large language models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/inferflow/inferflow) ![GitHub last commit](https://img.shields.io/github/last-commit/inferflow/inferflow)
 
 
 ## RAG Frameworks
