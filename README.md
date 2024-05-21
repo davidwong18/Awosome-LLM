@@ -8,6 +8,11 @@
 - [MTEB (Massive Text Embedding Benchmark) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [BigBench](https://github.com/google/BIG-bench)
 
+## Distributed Training Tools/Frameworks
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) Ongoing research training transformer models at scale.  ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/Megatron-LM)
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DeepSpeed)
+- [RedCoast(Redco)](https://arxiv.org/pdf/2310.16355) A Lightweight Tool to Automate Distributed Training and Inference. [Code](https://github.com/tanyuqian/redco)  ![GitHub Repo stars](https://img.shields.io/github/stars/tanyuqian/redco) ![GitHub last commit](https://img.shields.io/github/last-commit/tanyuqian/redco)
+
 ## Deploy Tools/Frameworks
 - [LocalAI](https://github.com/mudler/LocalAI) ![GitHub Repo stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)
 - [Ollama](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)
