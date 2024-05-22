@@ -63,6 +63,11 @@
 ## Caching
 - [GPTCache](https://github.com/zilliztech/GPTCache)
 - [KV-Runahead](https://arxiv.org/pdf/2405.05329) Scalable Causal LLM Inference by Parallel Key-Value Cache Generation.
+
+## Tensor Parallelism
+- 202404 [PrimePar: Efficient Spatial-temporal Tensor Partitioning for Large Transformer Model Training](https://dl.acm.org/doi/pdf/10.1145/3620666.3651357)
+- 2024   [DISTPAR:TENSOR PARTITIONING FOR DISTRIBUTED NEURAL NETWORK COMPUTING](https://openreview.net/pdf/id=1GdAJ3GsOw)
+- 202211 [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102)
   
 ## Heterogeneous Parallel Inference
 - [LLM-PQ](https://github.com/tonyzhao-jt/LLM-PQ) Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization.  ![GitHub Repo stars](https://img.shields.io/github/stars/tonyzhao-jt/LLM-PQ) ![GitHub last commit](https://img.shields.io/github/last-commit/tonyzhao-jt/LLM-PQ)
@@ -79,5 +84,5 @@
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) [Colab](https://colab.research.google.com/drive/1yrq4XBlxiA0fALtMoT2dwiACVc77PHou?usp=sharing) Quantize and run EXL2 models and upload them to the HF Hub
 - [LMQL](https://lmql.ai/docs/language/overview.html) is a Python-based programming language for LLM programming with declarative elements.
 
-## Papers
+## Other Papers
 - [Sarathi-Serve](https://arxiv.org/pdf/2403.02310) Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve.
